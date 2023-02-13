@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Last lines of a file"
+tail /etc/passwd
